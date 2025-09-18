@@ -18,6 +18,7 @@ df_hosp <- data.frame(
 summary(df_hosp)
 df_hosp <- na.omit(df_hosp)
 
+# Use par function here and before the histograms to allow side by side comparison for my graphs.
 par(mfrow = c(1, 3))
 
 boxplot(

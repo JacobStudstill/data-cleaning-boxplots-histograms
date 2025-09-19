@@ -44,6 +44,7 @@ boxplot(
   ylab = "Blood Pressure",
   main = "BP by Final Decision"
 )
+<img width="678" height="546" alt="barSidebySide" src="https://github.com/user-attachments/assets/ab16104b-306e-4bb0-850d-b9da4e1cc957" />
 
 par(mfrow = c(1, 2))
 
@@ -60,3 +61,4 @@ hist(
   xlab = "Blood Pressure",
   main = "Histogram of Blood Pressure"
 )
+<img width="678" height="546" alt="histoSidebySide" src="https://github.com/user-attachments/assets/d6240f38-0286-4768-9836-223390148a28" />
